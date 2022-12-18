@@ -1,0 +1,16 @@
+body{
+	background-image: url(picture3.jpeg);
+	margin-top: 10px;
+
+}
+.checkgender{
+	padding: 30px;
+}
+.col-lg-4{
+	background: rgba(44,62,80,0.7);
+ 
+
+}
+.container{
+	float: right;
+}
